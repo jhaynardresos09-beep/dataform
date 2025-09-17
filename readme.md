@@ -1,22 +1,4 @@
-# Dataform Core
-
-Dataform Core is an open source meta-language to create SQL tables and workflows in BigQuery. Dataform Core extends SQL by providing a dependency management system, automated data quality testing, and data documentation.
-
-Using Dataform Core, data teams can build scalable SQL data transformation pipelines following software engineering best practices, like version control and testing.
-
-For more details, see [how Dataform works](https://cloud.google.com/dataform/docs/overview).
-
-![Data collections and integrations feed into Dataform, which exports this data to BI and analytics tools.](static/images/single-source-of-truth.png?raw=true)
-
-## Get started
-
-### In Google Cloud Platform
-
-Dataform in Google Cloud Platform provides a fully managed experience to build scalable data transformations pipelines in **BigQuery** using SQL. It includes:
-
-- A cloud development environment to develop data assets with SQL and Dataform Core and version control code with GitHub, GitLab, and other Git providers.
-- A fully managed, serverless orchestration environment for data pipelines, fully integrated in Google Cloud Platform.
-
+L
 Follow the [quickstart guide](https://cloud.google.com/dataform/docs/quickstart)!
 
 ### With the CLI
